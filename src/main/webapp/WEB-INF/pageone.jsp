@@ -4,6 +4,6 @@
     <title>Title</title>
 </head>
 <body>
-<h1>Hello again! First page of outLineServletsJSP</h1>
+<h1>First page of outLineServletsJSP</h1>
 </body>
 </html>
